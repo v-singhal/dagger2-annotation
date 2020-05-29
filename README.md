@@ -1,5 +1,7 @@
 # dagger2-annotation
-Annotations for Dagger2 Component Generation
+#### Annotations for Dagger2 Component Generation
+
+--------------------
 
 MIT License
 
