@@ -1,4 +1,4 @@
-package com.vbstudio.covid19.core.injection.exposed;
+package com.vbstudio.annotations;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
