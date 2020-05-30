@@ -1,4 +1,7 @@
 # dagger2-annotation
+
+[![](https://jitpack.io/v/v-singhal/dagger2-annotation.svg)](https://jitpack.io/#v-singhal/dagger2-annotation)
+
 #### Annotations for Dagger2 Component Generation
 
 --------------------
